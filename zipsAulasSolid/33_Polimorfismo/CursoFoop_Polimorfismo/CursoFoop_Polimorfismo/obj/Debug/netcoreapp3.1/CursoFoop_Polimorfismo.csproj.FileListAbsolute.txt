@@ -1,0 +1,13 @@
+C:\_CShp2020\CursoFoop_Polimorfismo\CursoFoop_Polimorfismo\bin\Debug\netcoreapp3.1\CursoFoop_Polimorfismo.exe
+C:\_CShp2020\CursoFoop_Polimorfismo\CursoFoop_Polimorfismo\bin\Debug\netcoreapp3.1\CursoFoop_Polimorfismo.deps.json
+C:\_CShp2020\CursoFoop_Polimorfismo\CursoFoop_Polimorfismo\bin\Debug\netcoreapp3.1\CursoFoop_Polimorfismo.runtimeconfig.json
+C:\_CShp2020\CursoFoop_Polimorfismo\CursoFoop_Polimorfismo\bin\Debug\netcoreapp3.1\CursoFoop_Polimorfismo.runtimeconfig.dev.json
+C:\_CShp2020\CursoFoop_Polimorfismo\CursoFoop_Polimorfismo\bin\Debug\netcoreapp3.1\CursoFoop_Polimorfismo.dll
+C:\_CShp2020\CursoFoop_Polimorfismo\CursoFoop_Polimorfismo\bin\Debug\netcoreapp3.1\CursoFoop_Polimorfismo.pdb
+C:\_CShp2020\CursoFoop_Polimorfismo\CursoFoop_Polimorfismo\obj\Debug\netcoreapp3.1\CursoFoop_Polimorfismo.csprojAssemblyReference.cache
+C:\_CShp2020\CursoFoop_Polimorfismo\CursoFoop_Polimorfismo\obj\Debug\netcoreapp3.1\CursoFoop_Polimorfismo.csproj.CoreCompileInputs.cache
+C:\_CShp2020\CursoFoop_Polimorfismo\CursoFoop_Polimorfismo\obj\Debug\netcoreapp3.1\CursoFoop_Polimorfismo.AssemblyInfoInputs.cache
+C:\_CShp2020\CursoFoop_Polimorfismo\CursoFoop_Polimorfismo\obj\Debug\netcoreapp3.1\CursoFoop_Polimorfismo.AssemblyInfo.cs
+C:\_CShp2020\CursoFoop_Polimorfismo\CursoFoop_Polimorfismo\obj\Debug\netcoreapp3.1\CursoFoop_Polimorfismo.dll
+C:\_CShp2020\CursoFoop_Polimorfismo\CursoFoop_Polimorfismo\obj\Debug\netcoreapp3.1\CursoFoop_Polimorfismo.pdb
+C:\_CShp2020\CursoFoop_Polimorfismo\CursoFoop_Polimorfismo\obj\Debug\netcoreapp3.1\CursoFoop_Polimorfismo.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "i1I9MaML2uKdPKWRy+vBI9FJkKA28ad3sesw+LqVVHxiDSruQmoUK1fz4XwCFzBj537LVvDofmvmojp58ZEuOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marcosprea\\Documents\\Projetos\\Pessoal\\solid-implementation\\zipsAulasSolid\\29_Interface_Desacopla (1)\\CursoFoop_InterfaceDesacopla1\\CursoFoop_InterfaceDesacopla1\\CursoFoop_InterfaceDesacopla1.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://mto-ci01.minutocloud.net:800/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+C:\_CShp2020\CursoFoop_Polimorfismo\CursoFoop_Sobrecarg\bin\Debug\netcoreapp3.1\CursoFoop_Sobrecarg.exe
+C:\_CShp2020\CursoFoop_Polimorfismo\CursoFoop_Sobrecarg\bin\Debug\netcoreapp3.1\CursoFoop_Sobrecarg.deps.json
+C:\_CShp2020\CursoFoop_Polimorfismo\CursoFoop_Sobrecarg\bin\Debug\netcoreapp3.1\CursoFoop_Sobrecarg.runtimeconfig.json
+C:\_CShp2020\CursoFoop_Polimorfismo\CursoFoop_Sobrecarg\bin\Debug\netcoreapp3.1\CursoFoop_Sobrecarg.runtimeconfig.dev.json
+C:\_CShp2020\CursoFoop_Polimorfismo\CursoFoop_Sobrecarg\bin\Debug\netcoreapp3.1\CursoFoop_Sobrecarg.dll
+C:\_CShp2020\CursoFoop_Polimorfismo\CursoFoop_Sobrecarg\bin\Debug\netcoreapp3.1\CursoFoop_Sobrecarg.pdb
+C:\_CShp2020\CursoFoop_Polimorfismo\CursoFoop_Sobrecarg\obj\Debug\netcoreapp3.1\CursoFoop_Sobrecarg.csprojAssemblyReference.cache
+C:\_CShp2020\CursoFoop_Polimorfismo\CursoFoop_Sobrecarg\obj\Debug\netcoreapp3.1\CursoFoop_Sobrecarg.csproj.CoreCompileInputs.cache
+C:\_CShp2020\CursoFoop_Polimorfismo\CursoFoop_Sobrecarg\obj\Debug\netcoreapp3.1\CursoFoop_Sobrecarg.AssemblyInfoInputs.cache
+C:\_CShp2020\CursoFoop_Polimorfismo\CursoFoop_Sobrecarg\obj\Debug\netcoreapp3.1\CursoFoop_Sobrecarg.AssemblyInfo.cs
+C:\_CShp2020\CursoFoop_Polimorfismo\CursoFoop_Sobrecarg\obj\Debug\netcoreapp3.1\CursoFoop_Sobrecarg.dll
+C:\_CShp2020\CursoFoop_Polimorfismo\CursoFoop_Sobrecarg\obj\Debug\netcoreapp3.1\CursoFoop_Sobrecarg.pdb
+C:\_CShp2020\CursoFoop_Polimorfismo\CursoFoop_Sobrecarg\obj\Debug\netcoreapp3.1\CursoFoop_Sobrecarg.genruntimeconfig.cache
